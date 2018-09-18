@@ -1,0 +1,103 @@
+.main2{
+
+	width: 1000px;
+	height: 300px;
+	background: #1985;
+	margin: 0 auto;
+}
+.main2 .conter{
+	float: left;
+	width: 33%;
+	height: 300px;
+	background: #264;
+}
+.main2 .conter h2{
+	float: left;
+	color: black;
+	font-size: 30px;
+	margin: 0;
+	margin-top: 10px;
+}
+.main2 .conter p{
+	margin: 0;
+	text-align: justify;
+}
+.main2 .conter.a2{
+	margin: 0 5px 0 5px;
+}
+.main2 .conter a{
+	margin: 0;
+	text-decoration: none;
+	color: red;
+}
+.main7{
+	clear: both;
+	width: 1000px;
+	height: 500px;
+	background:pink;
+	margin: 0 auto;
+}
+.main7 img{
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.main7 h2{
+
+}
+.main7 p{
+	
+
+}
+.main7 p.title3{
+	float: left;
+	margin: 0;
+	display: block;
+	width: 80px;
+	height: 50px;
+	background:yellow;
+}
+.main7 p.title4{
+	float: left;
+	display: block;
+	width: 80px;
+	height: 50px;
+	background:gray
+}
+.main7 a p{
+	margin: 0;
+}
+.main6{
+	clear: both;
+	width: 1000px;
+	height: 500px;
+	background-image: url(https://tse2.mm.bing.net/th?id=OIP.ULZ3m3-IGzlMotoI2NyiWwHaFj&pid=15.1&P=0&w=202&h=153);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+}
+
+.main6 h1{
+
+	line-height: 100px;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+
+}
+.main6 p{
+	text-align: center;
+	color: white;
+
+}
+.main6 .hinhtron{
+	margin-left: 100px;
+	float: left;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border:4px solid white;
+	color: white;
+	text-align: center;
+	line-height: 100px;
+}
