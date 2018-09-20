@@ -1,0 +1,242 @@
+.khung{
+ width: 1000px;
+ height: 600px;
+ background: white;
+ margin: 0 auto;	
+}
+.khung .box1{
+	float: left;
+	width: 500px;
+	height: 600px;
+	
+}
+.box1 h2{
+	color: red;
+	font-size: 30px;
+	margin: 0;
+}
+.box1 img{
+	width: 500px;
+	height: 350px;
+}
+.box1 .ic{
+	width: 500px;
+	height: 50px;
+	
+}
+.ic .may{
+	float: left;
+	width: 166px;
+	height: 50px;
+	background: white;
+}
+.may img{
+	width: 100px;
+	height: 50px;
+	margin-left: 30px;
+}
+.ic .ml{
+	float: left;
+	width: 166px;
+	height: 50px;
+	background: red;
+}
+.ml img{
+	width: 50px;
+	height: 50px;
+	margin-left: 60px;
+}
+.ic .khac{
+	float: left;
+	border-left: 2px solid white;
+	width: 166px;
+	height: 50px;
+	background: red;
+}
+.khac img{
+	width: 60px;
+	height: 50px;
+	margin-left: 60px;
+}
+.ic .mua{
+	width: 500px;
+	height: 150px;
+	
+}
+.mua img{
+	width: 300px;
+	height: 100px;
+	margin-left: 80px;
+}
+.ic p{
+	font-size: 25px;
+	margin: 0;
+	text-align: center;
+	color: red;
+}
+
+.khung .box2{
+	float: left;
+	width: 500px;
+	height: 600px;
+	background: white;
+}
+.box2 .thang{
+	width: 500px;
+	height: 70px;
+	background: red;
+}
+.thang .phan1{
+	
+	float: left;
+	width: 166px;
+	height: 70px;
+	background: red;
+}
+.phan1 p{
+	margin: 0;
+	font-size: 25px;
+	text-align: center;
+	line-height: 20px;
+	color: yellow;	
+}
+.thang .phan2{
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	float: left;
+	width: 166px;
+	height: 70px;
+	background: red;
+}
+.phan2 img{
+	width: 80px;
+	height: 70px;
+	margin-left:40px;
+}
+.thang .phan3{
+	float: left;
+	width: 166px;
+	height: 70px;
+	background: red;
+}
+.phan3 p{
+	margin: 0;
+	font-size: 25px;
+	text-align: center;
+	line-height: 20px;
+	color: yellow;
+}
+.box2 p{
+margin: 0;
+line-height: 25px;
+font-size: 19px;
+}
+.box2 .hinh{
+	width: 500px;
+	height: 350px;
+	
+}
+.hinh img{
+	float: left;
+	width: 40px;
+	height: 50px;
+}
+.hinh p{
+	color: blue;
+	margin-top: 10px;
+	font-size: 20px;
+	line-height: 30px;
+}
+.hinh a{
+	text-decoration: none;
+}
+.hinh p:hover{
+	color: red;
+}
+.hinh .duoi{
+	margin-top: 30px;
+	width: 500px;
+	height: 50px;
+	background: blue;
+	border-radius: 10px;
+}
+.duoi img{
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin-left: 70px;
+}
+.duoi p{
+
+	margin-left: 50px;
+	float: left;
+	line-height: 30px;
+	text-align: center;
+}
+.duoi a{
+	font-size: 25px;
+	color: white;
+}
+.duoi a:hover{
+	color: green;
+}
+.box2 .cuoi{
+	width: 500px;
+	height: 71px;
+	
+}
+.cuoi .cuoi1{
+	float: left;
+	border-top: 2px solid white;
+	width: 249px;
+	height: 70px;
+	background: red;
+	border-radius: 20px;
+}
+.cuoi1 img{
+	float: left;
+	margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	margin-right: 40px;
+}
+.cuoi1 p{
+	font-size: 25px;
+	margin-top: 20px;
+}
+.cuoi1 a{
+	text-decoration: none;
+	color: white;
+}
+.cuoi1 a:hover{
+	color: blue;
+}
+.cuoi .cuoi2{
+	float: left;
+	border-top: 2px solid white;
+	border-left: 2px solid white;
+	width: 249px;
+	height: 70px;
+	background: red;
+	border-radius: 20px;
+}
+.cuoi2 img{
+	float: left;
+	margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	margin-right: 40px;
+}
+.cuoi2 p{
+	font-size: 25px;
+	margin-top: 20px;
+}
+.cuoi2 a{
+	text-decoration: none;
+	color: white;
+}
+.cuoi2 a:hover{
+	color: blue;
+}
+
+
